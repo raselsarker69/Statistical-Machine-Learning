@@ -1,6 +1,5 @@
 # Example 9: Dictionary Filtering Based on Conditions
 
-# Example dictionary
 dict1 = {
     'Rasel': 100,
     'Rahim': 200,
