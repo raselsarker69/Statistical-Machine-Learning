@@ -139,13 +139,21 @@ In the list, all the elements are numaricals
 
 <br>
 <h1>👉 Reach Out to Me</h1>
+<p align="center">
+  <a href="mailto:rasel.sarker6933@gmail.com"><img src="https://img.shields.io/badge/Email-rasel.sarker6933@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/raselsarker69"><img src="https://img.shields.io/badge/GitHub-%40Raselsarker-lightgrey?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/rasel-sarker-405160227/"><img src="https://img.shields.io/badge/LinkedIn-Rasel%20Sarker-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.facebook.com/mdrasel.sarker.7773631"><img src="https://img.shields.io/badge/Facebook-%40Raselsarker-blue?style=flat-square&logo=facebook"></a>
+  <a href="https://www.kaggle.com/mdraselsarker"><img src="https://img.shields.io/badge/Kaggle-%40Raselsarker-blue?style=flat-square&logo=kaggle"></a>
+  <a href="https://www.youtube.com/@raselsarker69"><img src="https://img.shields.io/badge/YouTube-Rasel%20Sarker-red?style=flat-square&logo=youtube"></a>
+  <a href="https://www.facebook.com/groups/832585175685301"><img src="https://img.shields.io/badge/Facebook%20Group-Rasel%20Sarker%20Group-blue?style=flat-square&logo=facebook"></a>
 
-- ⓕ [Facebook](https://www.facebook.com/mdrasel.sarker.7773631)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rasel-sarker-405160227/)  
-- 👥 [Facebook Group](https://www.facebook.com/groups/832585175685301)  
-- ▶️ [YouTube](https://www.youtube.com/@raselsarker69)  
-- 📊 [Kaggle](https://www.kaggle.com/mdraselsarker)  
-- ✉ [Gmail](mailto:rasel.sarker6933@gmail.com) 
+  <br>
+  <img src="https://img.shields.io/badge/Phone-%2B8801581528651-green?style=flat-square&logo=whatsapp">
+</p>
+
+
+
 
 
 
