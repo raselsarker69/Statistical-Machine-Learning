@@ -11,6 +11,7 @@ data = {
 
 df = pd.DataFrame(data)
 
+# Sorting by multiple columns
 sorted_df = df.sort_values(by=['Score', 'Age'], ascending=[False, True])
 
 print('Sorted DataFrame by Multiple Columns:\n', sorted_df)
