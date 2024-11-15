@@ -1,17 +1,11 @@
-# Sorting by Multiple Columns
+# Example 3: Pandas - Using Apply with Lambda Functions
 import pandas as pd
 
 # Creating a DataFrame
-data = {
-    'Name': ['Rasel', 'Rahim', 'Rakib', 'Ramisha'],
-    'Dept': ['CSE', 'EEE', 'IPE', 'ME'],
-    'Score': [70, 50, 90, 100],
-    'Age': [25, 30, 35, 22], 
-}
-
+data = {'Name': ['Alice', 'Bob', 'Charlie'], 'Score': [85, 90, 95]}
 df = pd.DataFrame(data)
 
-# Sorting by multiple columns
-sorted_df = df.sort_values(by=['Score', 'Age'], ascending=[False, True])
+# Applying a lambda function to modify scores
+df['Adjusted Score'] = df['Score'].apply(lambda x: x + 5 if x < 90 else x)
 
-print('Sorted DataFrame by Multiple Columns:\n', sorted_df)
+print('DataFrame with Adjusted Scores:\n', df)
